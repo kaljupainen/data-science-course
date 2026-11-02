@@ -1,0 +1,13 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: lab1.py",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/kmeans/lab1.py",
+            "console": "integratedTerminal",
+            "justMyCode": true
+        }
+    ]
+}
